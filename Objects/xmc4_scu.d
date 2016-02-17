@@ -1,0 +1,16 @@
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\src\xmc4_scu.c
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_scu.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h
+.\objects\xmc4_scu.o: C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_scu.h

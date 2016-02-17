@@ -1,0 +1,3 @@
+RGBMatrixDriver(); -> time for one execution (show one whole frame) = 88.24ms
+loadImageInPixBuffer(); -> create framebuffer from image information = 304.38ms with HN image format (array with size [1024][3])
+loadImageInPixBuffer(); -> create framebuffer from image information = 230.87ms with original image format

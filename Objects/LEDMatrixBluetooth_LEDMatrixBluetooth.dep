@@ -1,0 +1,309 @@
+Dependencies for Project 'LEDMatrixBluetooth', Target 'LEDMatrixBluetooth': (DO NOT MODIFY !)
+F (.\L0_matrix_driver.h)(0x56BF8347)()
+F (.\L0_matrix_driver.c)(0x56BF82B5)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\l0_matrix_driver.o --omf_browse .\objects\l0_matrix_driver.crf --depend .\objects\l0_matrix_driver.d)
+I (config.h)(0x56BF834F)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\ctype.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\errno.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\math.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_gpio.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio.h)(0x55854680)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio_map.h)(0x5585843A)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_uart.h)(0x55852318)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_usic.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_usic_map.h)(0x559D1B4A)
+I (L0_gpio_init.h)(0x56BF82D9)
+I (L0_uart_init.h)(0x56BF834B)
+I (L0_uart.h)(0x56BF82FC)
+I (L0_matrix_driver.h)(0x56BF8347)
+I (L1_image_processing.h)(0x56BF82D9)
+F (.\L0_gpio_init.c)(0x56BF82D9)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\l0_gpio_init.o --omf_browse .\objects\l0_gpio_init.crf --depend .\objects\l0_gpio_init.d)
+I (config.h)(0x56BF834F)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\ctype.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\errno.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\math.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_gpio.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio.h)(0x55854680)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio_map.h)(0x5585843A)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_uart.h)(0x55852318)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_usic.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_usic_map.h)(0x559D1B4A)
+I (L0_gpio_init.h)(0x56BF82D9)
+I (L0_uart_init.h)(0x56BF834B)
+I (L0_uart.h)(0x56BF82FC)
+I (L0_matrix_driver.h)(0x56BF8347)
+I (L1_image_processing.h)(0x56BF82D9)
+F (.\L0_gpio_init.h)(0x56BF82D9)()
+F (.\L1_image_processing.h)(0x56BF82D9)()
+F (.\L1_image_processing.c)(0x56BF82D9)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\l1_image_processing.o --omf_browse .\objects\l1_image_processing.crf --depend .\objects\l1_image_processing.d)
+I (config.h)(0x56BF834F)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\ctype.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\errno.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\math.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_gpio.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio.h)(0x55854680)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio_map.h)(0x5585843A)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_uart.h)(0x55852318)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_usic.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_usic_map.h)(0x559D1B4A)
+I (L0_gpio_init.h)(0x56BF82D9)
+I (L0_uart_init.h)(0x56BF834B)
+I (L0_uart.h)(0x56BF82FC)
+I (L0_matrix_driver.h)(0x56BF8347)
+I (L1_image_processing.h)(0x56BF82D9)
+F (.\L0_uart_init.c)(0x56BF82D9)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\l0_uart_init.o --omf_browse .\objects\l0_uart_init.crf --depend .\objects\l0_uart_init.d)
+I (config.h)(0x56BF834F)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\ctype.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\errno.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\math.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_gpio.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio.h)(0x55854680)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio_map.h)(0x5585843A)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_uart.h)(0x55852318)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_usic.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_usic_map.h)(0x559D1B4A)
+I (L0_gpio_init.h)(0x56BF82D9)
+I (L0_uart_init.h)(0x56BF834B)
+I (L0_uart.h)(0x56BF82FC)
+I (L0_matrix_driver.h)(0x56BF8347)
+I (L1_image_processing.h)(0x56BF82D9)
+F (.\main.c)(0x56BF8385)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (config.h)(0x56BF834F)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\ctype.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\errno.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\math.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_gpio.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio.h)(0x55854680)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio_map.h)(0x5585843A)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_uart.h)(0x55852318)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_usic.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_usic_map.h)(0x559D1B4A)
+I (L0_gpio_init.h)(0x56BF82D9)
+I (L0_uart_init.h)(0x56BF834B)
+I (L0_uart.h)(0x56BF82FC)
+I (L0_matrix_driver.h)(0x56BF8347)
+I (L1_image_processing.h)(0x56BF82D9)
+F (.\L0_uart.c)(0x56BF82D9)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\l0_uart.o --omf_browse .\objects\l0_uart.crf --depend .\objects\l0_uart.d)
+I (config.h)(0x56BF834F)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\ctype.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\errno.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\math.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_gpio.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio.h)(0x55854680)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio_map.h)(0x5585843A)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_uart.h)(0x55852318)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_usic.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_usic_map.h)(0x559D1B4A)
+I (L0_gpio_init.h)(0x56BF82D9)
+I (L0_uart_init.h)(0x56BF834B)
+I (L0_uart.h)(0x56BF82FC)
+I (L0_matrix_driver.h)(0x56BF8347)
+I (L1_image_processing.h)(0x56BF82D9)
+F (.\config.h)(0x56BF834F)()
+F (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\src\xmc4_gpio.c)(0x55B0A93C)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\xmc4_gpio.o --omf_browse .\objects\xmc4_gpio.crf --depend .\objects\xmc4_gpio.d)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_gpio.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio.h)(0x55854680)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio_map.h)(0x5585843A)
+F (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\src\xmc4_scu.c)(0x5599F8CC)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\xmc4_scu.o --omf_browse .\objects\xmc4_scu.crf --depend .\objects\xmc4_scu.d)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_scu.h)(0x558D2238)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_scu.h)(0x558D2238)
+F (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\src\xmc4_usic.c)(0x55854E6C)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\xmc4_usic.o --omf_browse .\objects\xmc4_usic.crf --depend .\objects\xmc4_usic.d)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_usic.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_usic_map.h)(0x559D1B4A)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_scu.h)(0x558D2238)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_scu.h)(0x558D2238)
+F (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\src\xmc_common.c)(0x5585233E)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\xmc_common.o --omf_browse .\objects\xmc_common.crf --depend .\objects\xmc_common.d)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+F (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\src\xmc_gpio.c)(0x55852C8E)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\xmc_gpio.o --omf_browse .\objects\xmc_gpio.crf --depend .\objects\xmc_gpio.d)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_gpio.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio.h)(0x55854680)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_gpio_map.h)(0x5585843A)
+F (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\src\xmc_uart.c)(0x55854E6C)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\xmc_uart.o --omf_browse .\objects\xmc_uart.crf --depend .\objects\xmc_uart.d)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_scu.h)(0x558D2238)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_scu.h)(0x558D2238)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_uart.h)(0x55852318)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_usic.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_usic_map.h)(0x559D1B4A)
+F (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\src\xmc_usic.c)(0x55852C8E)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\xmc_usic.o --omf_browse .\objects\xmc_usic.crf --depend .\objects\xmc_usic.d)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_usic.h)(0x55852C8E)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_common.h)(0x559B3DEE)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_device.h)(0x55A60A50)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_usic_map.h)(0x559D1B4A)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc_scu.h)(0x558D2238)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc\xmc4_scu.h)(0x558D2238)
+F (RTE\Device\XMC4500-F100x1024\startup_XMC4500.s)(0x54DE19D6)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"--cpreproc --pd "__UVISION_VERSION SETA 516" --pd "_RTE_ SETA 1" --pd "XMC4500_F100x1024 SETA 1"--list .\listings\startup_xmc4500.lst --xref -o .\objects\startup_xmc4500.o --depend .\objects\startup_xmc4500.d)
+F (RTE\Device\XMC4500-F100x1024\system_XMC4500.c)(0x55FEEF9E)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE-I "C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include"-I "C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc"-D__UVISION_VERSION="516" -D_RTE_ -DXMC4500_F100x1024 --C99-o .\objects\system_xmc4500.o --omf_browse .\objects\system_xmc4500.crf --depend .\objects\system_xmc4500.d)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\string.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\XMC4500.h)(0x54CF5906)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cm4.h)(0x55D55F54)
+I (C:\Program Files\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF3C42)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmInstr.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\cmsis_armcc.h)(0x55D5AC0A)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmFunc.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include\core_cmSimd.h)(0x55D46558)
+I (C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include\system_XMC4500.h)(0x54DDF6E0)

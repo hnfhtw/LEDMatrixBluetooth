@@ -1,0 +1,19 @@
+--cpu Cortex-M4.fp
+".\objects\l0_matrix_driver.o"
+".\objects\l0_gpio_init.o"
+".\objects\l1_image_processing.o"
+".\objects\l0_uart_init.o"
+".\objects\main.o"
+".\objects\l0_uart.o"
+".\objects\xmc4_gpio.o"
+".\objects\xmc4_scu.o"
+".\objects\xmc4_usic.o"
+".\objects\xmc_common.o"
+".\objects\xmc_gpio.o"
+".\objects\xmc_uart.o"
+".\objects\xmc_usic.o"
+".\objects\startup_xmc4500.o"
+".\objects\system_xmc4500.o"
+--ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\LEDMatrixBluetooth.map" -o .\Objects\LEDMatrixBluetooth.axf

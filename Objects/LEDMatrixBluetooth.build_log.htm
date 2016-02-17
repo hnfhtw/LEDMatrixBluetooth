@@ -1,0 +1,101 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.16a
+Copyright (C) 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Harald Netzer, -, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.16a
+Toolchain Path:  C:\Program Files\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 (build 20)
+Assembler:       Armasm.exe V5.06 (build 20)
+Linker/Locator:  ArmLink.exe V5.06 (build 20)
+Library Manager: ArmAr.exe V5.06 (build 20)
+Hex Converter:   FromElf.exe V5.06 (build 20)
+CPU DLL:         SARMCM3.DLL V5.16a
+Dialog DLL:      DCM.DLL V1.13.2.0
+Target DLL:      Segger\JL2CM3.dll V2.99.15.2
+Dialog DLL:      TCM.DLL V1.14.5.0
+ 
+<h2>Project:</h2>
+C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\LEDMatrixBluetooth.uvprojx
+Project File Date:  01/06/2016
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 (build 20)', folder: 'C:\Program Files\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'LEDMatrixBluetooth'
+compiling L1_image_processing.c...
+compiling L0_matrix_driver.c...
+compiling L0_uart_init.c...
+compiling L0_uart.c...
+compiling main.c...
+main.c(30): warning:  #111-D: statement is unreachable
+  	return 0;
+main.c: 1 warning, 0 errors
+compiling xmc4_gpio.c...
+compiling L0_gpio_init.c...
+assembling startup_XMC4500.s...
+compiling xmc4_scu.c...
+compiling system_XMC4500.c...
+compiling xmc_common.c...
+compiling xmc_gpio.c...
+compiling xmc_uart.c...
+compiling xmc4_usic.c...
+compiling xmc_usic.c...
+linking...
+Program Size: Code=4472 RO-data=896 RW-data=20 ZI-data=22136  
+".\Objects\LEDMatrixBluetooth.axf" - 0 Error(s), 1 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.4.4.0.pack
+                ARM::CMSIS:CORE:4.2.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 4.2.0
+
+Package Vendor: Infineon
+                http://media.infineon.com/mdk/Infineon.XMC4000_DFP.2.3.0.pack
+                Infineon::Device:Startup:1.0.0
+                Infineon XMC4000 Series Device Support, Drivers and Examples
+   * Component: Startup Version: 1.0.0
+   * Component: GPIO Version: 2.0.0
+   * Component: SCU Version: 2.0.0
+   * Component: UART Version: 2.0.0
+
+<h2>Collection of Component include folders:</h2>
+  C:\Stuff\uVision_Projects\Abgabe\LEDMatrixBluetooth_V01\RTE
+  C:\Program Files\Keil_v5\ARM\PACK\ARM\CMSIS\4.4.0\CMSIS\Include
+  C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMC4500_series\Include
+  C:\Program Files\Keil_v5\ARM\PACK\Infineon\XMC4000_DFP\2.3.0\Device\XMClib\inc
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:4.2.0
+
+   * Component: Infineon::Device:Startup:1.0.0
+      Include file:  Device\XMC4500_series\Include\XMC4500.h
+      Source file:   Device\XMC4500_series\Source\system_XMC4500.c
+      Source file:   Device\XMC4500_series\Source\ARM\startup_XMC4500.s
+
+   * Component: Infineon::Device:XMClib:GPIO:2.0.0
+      Source file:   Device\XMClib\src\xmc_common.c
+      Source file:   Device\XMClib\src\xmc_gpio.c
+      Source file:   Device\XMClib\src\xmc4_gpio.c
+
+   * Component: Infineon::Device:XMClib:SCU:2.0.0
+      Source file:   Device\XMClib\src\xmc_common.c
+      Source file:   Device\XMClib\src\xmc4_scu.c
+
+   * Component: Infineon::Device:XMClib:UART:2.0.0
+      Source file:   Device\XMClib\src\xmc_common.c
+      Source file:   Device\XMClib\src\xmc_usic.c
+      Source file:   Device\XMClib\src\xmc4_usic.c
+      Source file:   Device\XMClib\src\xmc_uart.c
+Build Time Elapsed:  00:00:05
+</pre>
+</body>
+</html>
